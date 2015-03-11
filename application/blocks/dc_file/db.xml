@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btDCDcFile">
+		<field name="bID" type="I"><key /><unsigned /></field>
+
+		<field name="field_1_file_fID" type="I"></field>
+		<field name="field_1_file_linkText" type="C" size="255"></field>
+
+
+	</table>
+</schema>
